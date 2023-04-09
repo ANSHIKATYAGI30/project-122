@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: violet;
+}
+canvas
+{
+	background: mediumpurple;
+	border-radius: 20px;
+}
